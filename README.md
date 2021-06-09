@@ -10,3 +10,4 @@ If you want to try this cool JS drum kit app, come check [Here](https://hsia-js-
 - transitionend : a trigger of addEventListener
 - keydown : a trigger of addEventListener
 - window.addEventListener : listen to all the action from the whole site
+- event.propertyName : the CSS keys ofr the element (ex. transform, width...)
