@@ -1,7 +1,8 @@
 # JavaScript30-1-Drum-Kit
 This is the [Day 1](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=1) of the JavaScript-30-day challenge I've followed from the channel Wes Bos.
 
-If you want to try this cool JS drum kit app, come check [Here](https://hsia-js-drum-kit.netlify.app)
+If you want to try this cool JS drum kit app, come check [Here](https://hsia-js-drum-kit.netlify.app) .
+
 Don't forget to turn on the sound and try with your keyboard:)
 
 ### Note
